@@ -1,6 +1,6 @@
 # chat-api
 
 
-start the project 
-npm i 
+start the project <br>
+npm i <br>
 npm start 
